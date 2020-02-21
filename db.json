@@ -1,4 +1,5 @@
-[
+{
+     "propostions" : [
         {
                 
             "statutCode": "PROP",
@@ -37,4 +38,5 @@
             "nombre_porposition": 300,
             "montant_global": 3800000
         }
-    ]
+             ]
+}
