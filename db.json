@@ -1,40 +1,40 @@
 [
         {
                 
-            statutCode: "PROP",
-            nombre_porposition: 123,
-            montant_global: 292929999
+            "statutCode": "PROP",
+            "nombre_porposition": 123,
+            "montant_global": 292929999
         },
         {
-            statutCode: "P025",
-            nombre_porposition: 12,
-            montant_global: 292929
+            "statutCode": "P025",
+            "nombre_porposition": 12,
+            "montant_global": 292929
             
          },
         {
-            statutCode: "PROA",
-            nombre_porposition: 22,
-            montant_global: 29000
+            "statutCode": "PROA",
+            "nombre_porposition": 22,
+            "montant_global": 29000
         },
         {
-            statutCode: "PROD",
-            nombre_porposition: 30,
-            montant_global: 29800
+            "statutCode": "PROD",
+            "nombre_porposition": 30,
+            "montant_global": 29800
         },
         {
-            statutCode: "PRDA",
-            nombre_porposition: 30,
-            montant_global: 29800
+            "statutCode": "PRDA",
+            "nombre_porposition": 30,
+            "montant_global": 29800
 
         },
         {
-            statutCode: "PRDR",
-            nombre_porposition: 200,
-            montant_global: 29800000
+            "statutCode": "PRDR",
+            "nombre_porposition": 200,
+            "montant_global": 29800000
         },
         {
-            statutCode: "PROE",
-            nombre_porposition: 300,
-            montant_global: 3800000
+            "statutCode": "PROE",
+            "nombre_porposition": 300,
+            "montant_global": 3800000
         }
     ]
