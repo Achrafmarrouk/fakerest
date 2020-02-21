@@ -1,0 +1,38 @@
+[
+        {
+            name: "En étude",
+            y: 9,
+            fillColor: '#FFFFFF',
+            drilldown: "En étude"
+        },
+        {
+            name: "Remises",
+            y: 18,
+            drilldown: "Remises"
+        },
+        {
+            name: "En dérogation",
+            y: 22,
+            drilldown: "En dérogation"
+        },
+        {
+            name: "Acceptées",
+            y: 10,
+            drilldown: "Acceptées"
+        },
+        {
+            name: "Refusées",
+            y: 18,
+            drilldown: "Refusées"
+        },
+        {
+            name: "Acceptées par client",
+            y: 12,
+            drilldown: "Acceptées par client"
+        },
+        {
+            name: "En traitement ML",
+            y:16,
+            drilldown: "En traitement M"
+        }
+    ]
