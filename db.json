@@ -1,9 +1,8 @@
 {
      "propositions" : [
                               {
-            "name": "En étude",
-            "y": 9,
-     
+            "test": "En étude",
+            "y": 9,     
             "drilldown": "En étude"
         },
         {
