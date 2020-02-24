@@ -1,39 +1,52 @@
 {
-     "propositions" : [
-                              {
-            "test": "En étude",
-            "y": 9,     
-            "drilldown": "En étude"
+     "propositions" :[
+        {
+            codestatut: "PROE",
+            libelle: "crée",
+            nombre_de_proposition: 9,
+            montant_global_des_propositions : 60000 
         },
         {
-            "name": "Remises",
-            "y": 18,
-            "drilldown": "Remises"
+            codestatut: "PROP",
+            libelle: "Remis",
+            nombre_de_proposition: 10,
+            montant_global_des_propositions : 60000 
         },
         {
-            "name": "En dérogation",
-            "y": 22,
-            "drilldown": "En dérogation"
+            codestatut: "PROA",
+            libelle: "Acceptés",
+            nombre_de_proposition: 20,
+            montant_global_des_propositions : 80000 
         },
         {
-            "name": "Acceptées",
-            "y": 10,
-            "drilldown": "Acceptées"
+            codestatut: "PROR",
+            libelle: "Abandonné",
+            nombre_de_proposition: 30,
+            montant_global_des_propositions : 8000 
         },
         {
-            "name": "Refusées",
-            "y": 18,
-            "drilldown": "Refusées"
+            codestatut: "P025",
+            libelle: "Accepté client",
+            nombre_de_proposition: 15,
+            montant_global_des_propositions : 8000 
         },
         {
-            "name": "Acceptées par client",
-            "y": 12,
-            "drilldown": "Acceptées par client"
+            codestatut: "PROD",
+            libelle: "En dérogation",
+            nombre_de_proposition: 40,
+            montant_global_des_propositions : 80000
         },
         {
-            "name": "En traitement ML",
-            "y":16,
-            "drilldown": "En traitement M"
+            codestatut: "PRDA",
+            libelle: "Dérogation acceptée",
+            nombre_de_proposition: 25,
+            montant_global_des_propositions : 23000
+        },
+        {
+            codestatut: "PRDR",
+            libelle: "Dérogation refusée",
+            nombre_de_proposition: 20,
+            montant_global_des_propositions : 2300
         }
-             ]
+    ]
 }
