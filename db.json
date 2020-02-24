@@ -3,7 +3,7 @@
                               {
             "name": "En étude",
             "y": 9,
-            "fillColor": '#FFFFFF',
+            "fillColor": "#FFFFFF",
             "drilldown": "En étude"
         },
         {
