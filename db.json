@@ -12,7 +12,7 @@
             "libelle": "Remises",
             "nombre_de_proposition": 10,
             "montant_global_des_propositions" : 60000,
-             "color" :"#6b6a69"
+             "color" :"#1f78b4"
         },
         {
             "codestatut": "PROD",
