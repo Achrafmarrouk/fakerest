@@ -1,52 +1,55 @@
 {
-   "propositions":  {
-    "nombre_total_propositions": 29,
-    "montant_global_propositions": 60082000,
-    "liste_details_status": [
-      {
-        "code_statut": "P025",
-        "libelle_statut": "Proposition acceptée par clien",
-        "nombre_propositions": 4,
-        "montant_total_propositions": 10375000
-      },
-      {
-        "code_statut": "PROR",
-        "libelle_statut": "Proposition annulée ou refusée",
-        "nombre_propositions": 1,
-        "montant_total_propositions": 500000
-      },
-      {
-        "code_statut": "PROE",
-        "libelle_statut": "Prop. commerciale à l'étude",
-        "nombre_propositions": 1,
-        "montant_total_propositions": 800000
-      },
-      {
-        "code_statut": "PROD",
-        "libelle_statut": "Proposition en dérogation",
-        "nombre_propositions": 16,
-        "montant_total_propositions": 28757000
-      },
-      {
-        "code_statut": "PROA",
-        "libelle_statut": "Prop. acceptée par société",
-        "nombre_propositions": 4,
-        "montant_total_propositions": 7650000
-      },
-      {
-        "code_statut": "PRDR",
-        "libelle_statut": "Derogation refuse ML",
-        "nombre_propositions": 1,
-        "montant_total_propositions": 2000000
-      },
-      {
-        "code_statut": "PRDA",
-        "libelle_statut": "Dérogation Accepté ML",
-        "nombre_propositions": 2,
-        "montant_total_propositions": 10000000
-      }
-    ]
-  },     
+     "propositions" :[
+        {
+            "codestatut": "PROE",
+            "libelle": "en Etude",
+            "nombre_de_proposition": 9,
+            "montant_global_des_propositions" : 60000,
+             "color" :"#6b6a69"
+        },
+        {
+            "codestatut": "PROP",
+            "libelle": "Remises",
+            "nombre_de_proposition": 10,
+            "montant_global_des_propositions" : 60000,
+             "color" :"#1f78b4"
+        },
+        {
+            "codestatut": "PROD",
+            "libelle": "En dérogation",
+            "nombre_de_proposition": 40,
+            "montant_global_des_propositions" : 80000,
+             "color" :"#6b6a69"
+        },
+        {
+            "codestatut": "PROA",
+            "libelle": "Acceptés",
+            "nombre_de_proposition": 20,
+            "montant_global_des_propositions" : 80000,
+             "color" :"#6b6a69" 
+        },
+        {
+            "codestatut": "PROR",
+            "libelle": "Refusées",
+            "nombre_de_proposition": 30,
+            "montant_global_des_propositions" : 8000,
+             "color" :"#6b6a69" 
+        },
+        {
+            "codestatut": "P025",
+            "libelle": "Accepté par client",
+            "nombre_de_proposition": 15,
+            "montant_global_des_propositions" : 8000,
+             "color" :"#6b6a69" 
+        },
+        {
+            "codestatut": "PRDA",
+            "libelle": "En traitement ML",
+            "nombre_de_proposition": 25,
+            "montant_global_des_propositions" : 23000,
+             "color" :"#6b6a69"
+        }
+    ],     
      "contrats" :[
         {
             "codestatut": "PROE",
